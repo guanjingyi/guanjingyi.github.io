@@ -6,7 +6,7 @@ about:
     image: images/my_photo.JPG
     links:
       - text: Résumé
-        href: https://drive.google.com/file/d/1fcZWUN1SPQbtgc3Xqnwd5JBIewhzFRcr/view?usp=sharing
+        # href: 
       - icon: linkedin
         href: https://www.linkedin.com/in/jingyi-guan-mac/
       - icon: github
@@ -68,7 +68,7 @@ Behavioral Neuroscience, Introduction to Neuroscience, Neuroscience of Reward (p
   - [*Neuromodulation Research Center*](https://nmrc.umn.edu/), *Department of Neuroloogy, University of Minnesota*
   
 ### Selected Talks and Poster Sessions
-- **Joint Mathematics Meeting**, *01/2024*
+- **AIM-AMS Special Session on Applied Topology, Joint Mathematics Meeting**, *01/2024*
 - **Applied Algebraic Topology Research Networ (AATRN) Poster Session**, *11/2023*
 - **MAA-NCS Fall Meeting**, *09/2023*
   - *Topological Data Analysis of Knowledge Networks*
@@ -82,7 +82,7 @@ Behavioral Neuroscience, Introduction to Neuroscience, Neuroscience of Reward (p
 - **A Survival Analysis of Sexual Debut Among Adolescents**, *09/2022 - 12/2022*
     - *Supervised by [Prof. Vittorio Addona](https://sites.google.com/macalester.edu/vittorioaddonahomepage/home)*
 
-### Teaching Assistantship
+### Teaching Experience
 - **MATH/STAT 455: Mathematical Statistics**, *Macalester College, 01/2024 - 05/2024 (Planned)*
   - Instructor: [Prof. Taylor Okonek](https://taylorokonek.github.io/)
 - **MATH/STAT 354: Probability**, *Macalester College, 09/2022 - 12/2022*
