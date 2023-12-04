@@ -1,0 +1,27 @@
+---
+title: "Characterizing the Differentiation Trajectory of Skeletal Myogenic Lineage in Mouse ESC-Derived Teratomas"
+description: "Discovered distinct subpopulations within the skeletal myogenic lineage and established a comprehensive trajectory of myogenic cell differentiation during mouse pluripotent stem cell (PSC) in vivo differentiation."
+
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - High-Performance Computing (HPC)
+  - R
+  - single-cell RNA-seq
+about:
+  template: solana
+  image: featured.png
+---
+
+I am collaborating with [Prof. Sunny Chan](<https://med.umn.edu/bio/sunny-chan>) on drafting of a manuscript, with the intention of publishing. Our preliminary draft is available upon request, and the introduction section is presented below.
+
+**Introduction**
+
+Skeletal muscle stem cells are crucial for muscle regeneration, as they respond to injuries and differentiate into myoblasts which later fuse into myofibers. However, individuals with genetic muscle diseases, such as Duchenne muscular dystrophy, face a distressing problem. For these patients, their muscles constantly degenerate due to the lack of the dystrophin protein, and as a result, skeletal muscle stem cells are constantly activated to regenerate the damaged muscles. The never-ending degeneration-regeneration cycle eventually leads to skeletal muscle stem cell exhaustion and the damaged muscles can no longer regenerate effectively. Tragically, these deficiencies have fatal consequences due to respiratory complications in teenage years, and currently, there is no known cure for these conditions.
+
+Researchers have explored multiple strategies in the past to address this challenge but success thus far has been modest. One approach involves transplanting wildtype skeletal muscle stem cells to regenerate new healthy muscles. However, due to the scarcity of skeletal muscle stem cells in muscles, there is a need for cell expansion before transplantation into patients. Unfortunately, expanded skeletal muscle stem cells have shown limited engraftment potential. Another avenue of research has centered on differentiating pluripotent stem cells (PSCs) into skeletal myogenic progenitors. Nevertheless, this approach has also faced difficulties in producing functional muscle cells with the desired engraftment potential.
+
+We have developed a method for generating skeletal myogenic progenitors with exceptional engraftment potential using the in vivo PSC differentiation approach [[Chan 2018, Xie 2021, Pappas 2022, Xie 2023a,b](https://pubmed.ncbi.nlm.nih.gov/35563894/)]. The reason underlying why these in vivo differentiated skeletal myogenic progenitors exhibit such a high engraftment potential, unlike those that are generated through other methods, remains a mystery. We reason that the developmental trajectories of highly engraftable cells (in vivo differentiation) and less engraftable cells (other differentiation methods) diverge during PSC differentiation, and a deeper exploration into these differences could provide valuable insights. Unraveling this mystery is of utmost importance, as it may pave the way for further genetic and pathway manipulation that enables efficient and reliable production of engraftable muscle stem cells in vitro.
+
+In the current study, we characterize the time course of the development of skeletal myogenic progenitors during in vivo PSC differentiation using a single-cell RNA-seq (scRNA-seq) approach. We aim to uncover the key genetic and molecular factors that make in vivo differentiated cells highly engraftable. This knowledge could hold the key to overcome the hurdles in developing a robust in vitro protocol to produce engraftable muscle stem cells, ultimately offering hope for individuals suffering from genetic muscle diseases like Duchenne muscular dystrophy and potentially preventing the tragic consequences they face.

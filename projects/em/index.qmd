@@ -1,0 +1,15 @@
+---
+title: "A Tutorial on the Expectation-Maximization (EM) Algorithm"
+description: "An In-Depth Guide to the Expectation-Maximization Algorithm and Its Applications in Gaussian Mixture Models (GMM), Hidden Markov Models (HMM), and Image Segmentation."
+
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Mathematical Statistics
+  - R
+about:
+  template: solana
+  image: featured.png
+---
+
+[Check out this comprehensive tutorial (R Bookdown)](https://wx-zhu.github.io/EMalgorithm_bookdown/)

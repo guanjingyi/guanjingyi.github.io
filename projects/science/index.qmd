@@ -1,0 +1,24 @@
+---
+title: "Study the Progress of Science: A Topological Data Analysis of Knowledge Networks"
+description: "As an integral part of an NSF-funded project, [\"Stepping out of flatland: Complex networks, topological data analysis, and the progress of science\"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2318170&HistoricalAwards=false), my honors thesis uses topological data analysis to study knowledge networks in order to unravel the dynamic evolution of scientific understanding."
+
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - Topological Data Analysis (TDA)
+  - Python
+about:
+  template: solana
+  image: featured.png
+---
+
+My Honors Thesis, "Studying the Progress of Science: Topological Data Analysis of Knowledge Networks," is conducted with a peer under the supervision of Profs. [Lori Ziegelmeier](https://www.loriziegelmeier.com/) and [Russell Funk](https://carlsonschool.umn.edu/faculty/russell-funk), applying topological data analysis techniques in the field of Science of Science to study how *science* evolves.
+
+We constructed knowledge networks using Python and applied persistent homology to study knowledge gaps (cycles), further identifying and characterizing these gaps with the Open Applied Topology (OAT) software, created under the NSF-funded [ExHACT](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1854703&HistoricalAwards=false) project, to gain insights into the evolution of the knowledge network over time.
+
+We formulated a typology of research papers based on their roles in the knowledge network, revealing that papers involved in knowledge gaps receive a higher number of citations.
+
+**Talks**: [View Slides](https://drive.google.com/file/d/1RRH55C9SV6M2H24Mej3m5raXdjmK87jo/view?usp=sharing): Presented at the MAA-NCS Fall Meeting in September 2023, and received travel grant from AMS to give a talk at AIM-AMS Special Session on Applied Topology at JMM in January 2024. 
+
+**Poster Sessions**: [View Poster](https://drive.google.com/file/d/1DXbXcXoqSjvEEuvCJ6O1VTqKmpTzqQop/view?usp=sharing): Presented at the Applied Algebraic Topology Research Network (AATRN) poster session in November 2023, and received travel grant from AMS to present at JMM poster session. 

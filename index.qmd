@@ -6,7 +6,7 @@ about:
     image: images/my_photo.JPG
     links:
       - text: Résumé
-        # href: 
+        href: https://drive.google.com/file/d/1oTfBPmLGGWdF2_Pj2dk1_fbUu6HN7xOw/view?usp=sharing
       - icon: linkedin
         href: https://www.linkedin.com/in/jingyi-guan-mac/
       - icon: github
@@ -20,7 +20,7 @@ about:
 
 ### About Jingyi (she/her)
 
-I am an undergraduate student at [Macalester College](https://www.macalester.edu/) studying Statistics, Psychology, and Computer Science. I am currently working on my Honors Thesis, "Topological Data Analysis of Knowledge Networks," to study how science evolves under the supervision of [Prof. Lori Ziegelmeier](https://www.loriziegelmeier.com/).
+I am an undergraduate student at [Macalester College](https://www.macalester.edu/) studying Statistics, Psychology, and Computer Science. I am currently working on my Honors Thesis, "Topological Data Analysis of Knowledge Networks," to study how science evolves under the supervision of Profs. [Lori Ziegelmeier](https://www.loriziegelmeier.com/) and [Russell Funk](https://carlsonschool.umn.edu/faculty/russell-funk).
 
 :::
 

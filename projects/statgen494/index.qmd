@@ -1,0 +1,18 @@
+---
+title: "Linkage Disequilibrium Correction in Genome-Wide Association Study (GWAS)"
+description: "This project uses Hidden Markov Model to correct for Linkage Disequilibrium in Genome-Wide Association Study."
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - GWAS
+  - R
+about:
+  template: solana
+  image: featured.png
+---
+
+Together with my teammate [Thu Dang](https://github.com/tdang244/), we learned from an article how to apply the Hidden Markov Model (HMM) to prune for linkage disequilibrium. Then, we replicated their results in R using HapMap data to showcase the efficacy of HMM. We additionally conducted a comparison of outcomes employing both traditional GWAS methodology and the Hidden Markov Model (HMM) approach for Type I Diabetes.
+
+[Check out the website we made here.](https://thu-jingyi-statgencapstone.netlify.app/) 
+

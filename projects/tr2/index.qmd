@@ -1,0 +1,15 @@
+---
+title: "Using SVD to Analyze Political Distance"
+description: "Analyzed voting data through Singular Value Decomposition (SVD) to unveil patterns indicating how party affiliations influence legislators' voting behavior."
+
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Computational Linear Algebra
+  - R
+about:
+  template: solana
+  image: featured.png
+---
+
+As discussed in this [paper](https://drive.google.com/file/d/10Z2j79Q144-iCreSTIul93SWk58eBdKC/view?usp=sharing), our SVD and clustering analysis to understand voting trends in the House of Representatives drew our attention to a couple of patterns. First, controversial issues make representatives more partisan. Secondly, there seems to be more split between the Republicans into two sects than the Democrats. Third, while controversial subjects seem to split representatives into neat groupings, when looking at their voting patterns in a bigger picture, the groupings and patterns are less clear. In order to further understand voting patterns, a more thorough SVD and clustering analysis of a larger matrix and more data would be required.

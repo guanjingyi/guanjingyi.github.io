@@ -4,5 +4,26 @@
   },
   "about.qmd": {
     "about.html": "8860e452"
+  },
+  "projects/statgen494/index.qmd": {
+    "index.html": "6f031b80"
+  },
+  "projects.qmd": {
+    "projects.html": "0f0f8b75"
+  },
+  "projects/survival453/index.qmd": {
+    "index.html": "0c808933"
+  },
+  "projects/tr2/index.qmd": {
+    "index.html": "17707760"
+  },
+  "projects/science/index.qmd": {
+    "index.html": "4702520f"
+  },
+  "projects/sunny/index.qmd": {
+    "index.html": "7f6a56fc"
+  },
+  "projects/em/index.qmd": {
+    "index.html": "47492ff0"
   }
 }

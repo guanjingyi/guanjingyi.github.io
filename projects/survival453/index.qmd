@@ -1,0 +1,18 @@
+---
+title: "A Survival Analysis of Sexual Debut Among Adolescents"
+description: "Utilized the National Longitudinal Study of Adolescent to Adult Health (Add Health) data to conduct a survival analysis in a group of three to examine the association between various social determinants of health and age of first sexual intercourse among adolescents with R."
+
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - Survival Analysis
+  - R
+about:
+  template: solana
+  image: featured.png
+---
+
+In this [paper](https://drive.google.com/file/d/1eCuEElSWOMeu1W6ajiuUu4VBYNLnvmBX/view), we conducted a survival analysis to study how different risk factors affect adolescents’ age of first sex. After examining the Kaplan-Meier curves and Mantel-Cox log-rank tests on single covariates, the multivariate log-normal AFT regression model with interactions, and Cox PH model with and without time-varying covariates, we found that high depression scores, low household income,drinking alcohol without parents, and believing sex is part of an ideal romantic relationships are significant "risk" factors for early sexual debut across all analyses. In the end, we compared our results with previous studies and found consistencies and inconsistencies.
+
+
