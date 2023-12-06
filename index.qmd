@@ -11,30 +11,21 @@ about:
         href: https://www.linkedin.com/in/jingyi-guan-mac/
       - icon: github
         href: https://github.com/guanjingyi
-      
 ---
 
-
-
-:::{#intro-heading}
-
+::: {#intro-heading}
 ### About Jingyi (she/her)
 
 I am an undergraduate student at [Macalester College](https://www.macalester.edu/) studying Statistics, Psychology, and Computer Science. I am currently working on my Honors Thesis, "Topological Data Analysis of Knowledge Networks," to study how science evolves under the supervision of Profs. [Lori Ziegelmeier](https://www.loriziegelmeier.com/) and [Russell Funk](https://carlsonschool.umn.edu/faculty/russell-funk).
-
 :::
 
 ### Research Interest
+
 I aspire to develop novel statistical methods with machine learning and create new statistical, computational, and bioinformatics techniques to study complex diseases and neuropsychiatric disorders using high-dimensional data. Through the integration of high-throughput data and clinical information, I aim to uncover the genetic factors and biomarkers influencing patient survival and unravel the complex pathologies of these under-studied conditions. My research goal is to provide valuable insights into disease mechanisms and therapeutic strategies, offering hope to patients facing limited treatment options.
-
-
-
-
 
 ### Education
 
-Macalester College | St. Paul, MN <br>
-B.A. in Statistics, Minors in Psychology and Computer Science | GPA: 4.0 | Sept 2020 - May 2024
+Macalester College \| St. Paul, MN <br> B.A. in Statistics, Minors in Psychology and Computer Science \| GPA: 4.0 \| Sept 2020 - May 2024
 
 ### Programming Skills
 
@@ -42,72 +33,59 @@ B.A. in Statistics, Minors in Psychology and Computer Science | GPA: 4.0 | Sept 
 
 **Utilities:** Rstudio, Anaconda, Git, Jupiter Notebook, Tableau
 
-
 ### Selected Coursework
 
-**Mathematics/Statistics:**
-Mathematical Statistics, Statistical Genetics, Survival Analysis, Probability, Real Analysis (in progress), Topology, Computational Linear Algebra, Statistical Machine Learning, Introduction to Statistical Modeling
+**Mathematics/Statistics:** Mathematical Statistics, Statistical Genetics, Survival Analysis, Probability, Real Analysis (in progress), Topology, Computational Linear Algebra, Statistical Machine Learning, Introduction to Statistical Modeling
 
-**Computer Science:**
-Computational Geometry (in progress), Algorithm Design & Analysis, Data Structures, Object-Oriented Programming and Abstraction
+**Computer Science:** Computational Geometry (in progress), Algorithm Design & Analysis, Data Structures, Object-Oriented Programming and Abstraction
 
-**Neuroscience/Psychology:**
-Behavioral Neuroscience, Introduction to Neuroscience, Neuroscience of Reward (planned), Educational Psychology, Introduction to Psychology
-
+**Neuroscience/Psychology:** Behavioral Neuroscience, Introduction to Neuroscience, Neuroscience of Reward (planned), Educational Psychology, Introduction to Psychology
 
 ### Research Experiences
-- **Children's Cancer Research Fund (CCRF) Researcher**, *07/2023 - Present*
-  - *Supervised by [Prof. Sunny Chan](https://med.umn.edu/bio/sunny-chan)*
-  - *Chan Lab, Department of Pediatrics, University of Minnesota*
 
-- **NSF-funded Undergraduate Researcher**, *05/2023 - Present*
-  - *Supervised by [Prof. Russell Funk](https://carlsonschool.umn.edu/faculty/russell-funk), [Prof. Lori Ziegelmeier](https://www.loriziegelmeier.com/), and [Prof. Jason Owen-Smith](https://fordschool.umich.edu/faculty/jason-owen-smith)*.
-  
-- **Research Programmer**, *07/2022 - 01/2023*
-  - *Supervised by Jaejin Lee, Principle Data Scientist, and Lingling Yang, Postdoc Associate*
-  - [*Neuromodulation Research Center*](https://nmrc.umn.edu/), *Department of Neuroloogy, University of Minnesota*
-  
+-   **Children's Cancer Research Fund (CCRF) Researcher**, *07/2023 - Present*
+    -   *Supervised by [Prof. Sunny Chan](https://med.umn.edu/bio/sunny-chan)*
+    -   *Chan Lab, Department of Pediatrics, University of Minnesota*
+-   **NSF-funded Undergraduate Researcher**, *05/2023 - Present*
+    -   *Supervised by [Prof. Russell Funk](https://carlsonschool.umn.edu/faculty/russell-funk), [Prof. Lori Ziegelmeier](https://www.loriziegelmeier.com/), and [Prof. Jason Owen-Smith](https://fordschool.umich.edu/faculty/jason-owen-smith)*.
+-   **Research Programmer**, *07/2022 - 01/2023*
+    -   *Supervised by Jaejin Lee, Principle Data Scientist, and Lingling Yang, Postdoc Associate*
+    -   [*Neuromodulation Research Center*](https://nmrc.umn.edu/), *Department of Neuroloogy, University of Minnesota*
+
 ### Selected Talks and Poster Sessions
-- **AIM-AMS Special Session on Applied Topology, Joint Mathematics Meeting**, *01/2024*
-- **Applied Algebraic Topology Research Networ (AATRN) Poster Session**, *11/2023*
-- **MAA-NCS Fall Meeting**, *09/2023*
-  - *Topological Data Analysis of Knowledge Networks*
 
-
+-   **AIM-AMS Special Session on Applied Topology, Joint Mathematics Meeting**, *01/2024*
+-   **Applied Algebraic Topology Research Networ (AATRN) Poster Session**, *11/2023*
+-   **MAA-NCS Fall Meeting**, *09/2023*
+    -   *Topological Data Analysis of Knowledge Networks*
 
 ### In-class Projects
-- **Hidden Markov Model Application in Multiple Testing to Address Linkage Disequilibrium in Genome-Wide Association Study**, *09/2022 - 12/2022*
-    - *Supervised by [Prof. Kelsey Grinde](https://kegrinde.github.io/)*
-  
-- **A Survival Analysis of Sexual Debut Among Adolescents**, *09/2022 - 12/2022*
-    - *Supervised by [Prof. Vittorio Addona](https://sites.google.com/macalester.edu/vittorioaddonahomepage/home)*
+
+-   **Hidden Markov Model Application in Multiple Testing to Address Linkage Disequilibrium in Genome-Wide Association Study**, *09/2022 - 12/2022*
+    -   *Supervised by [Prof. Kelsey Grinde](https://kegrinde.github.io/)*
+-   **A Survival Analysis of Sexual Debut Among Adolescents**, *09/2022 - 12/2022*
+    -   *Supervised by [Prof. Vittorio Addona](https://sites.google.com/macalester.edu/vittorioaddonahomepage/home)*
 
 ### Teaching Experience
-- **MATH/STAT 455: Mathematical Statistics**, *Macalester College, 01/2024 - 05/2024 (Planned)*
-  - Instructor: [Prof. Taylor Okonek](https://taylorokonek.github.io/)
-- **MATH/STAT 354: Probability**, *Macalester College, 09/2022 - 12/2022*
-  - Instructor: [Prof. Alicia Johnson](https://ajohns24.github.io/portfolio/)
-- **COMP 127: Object-Oriented Programming & Abstraction**, *Macalester College, 09/2021 - 5/2022*
-  - Instructor: [Prof. Joslenne Peña](https://jpena831.github.io/)
 
-
+-   **MATH/STAT 455: Mathematical Statistics**, *Macalester College, 01/2024 - 05/2024 (Planned)*
+    -   Instructor: [Prof. Taylor Okonek](https://taylorokonek.github.io/)
+-   **MATH/STAT 354: Probability**, *Macalester College, 09/2022 - 12/2022*
+    -   Instructor: [Prof. Alicia Johnson](https://ajohns24.github.io/portfolio/)
+-   **COMP 127: Object-Oriented Programming & Abstraction**, *Macalester College, 09/2021 - 5/2022*
+    -   Instructor: [Prof. Joslenne Peña](https://jpena831.github.io/)
 
 ### Extracurricular Activities
 
-- **Co-Chair, Student Advisory Board**, *09/2023 - Present*
-- **Member, Student Advisory Board**, *09/2022 - Present*
-  - *Department of Mathematics, Statistics, and Computer Science, Macalester College*
+-   **Co-Chair, Student Advisory Board**, *09/2023 - Present*
+-   **Member, Student Advisory Board**, *09/2022 - Present*
+    -   *Department of Mathematics, Statistics, and Computer Science, Macalester College*
+-   **Database Volunteer**, *01/2022 - 05/2022*
+    -   [*International Institute of Minnesota*](https://iimn.org/)
+-   **Data Analysis Volunteer**, *02/2022 - 08/2022*
+    -   [*Foundations for Essential Needs*](https://ffen.org/)
 
-- **Database Volunteer**, *01/2022 - 05/2022*
-  - [*International Institute of Minnesota*](https://iimn.org/)
-
-
-- **Data Analysis Volunteer**, *02/2022 - 08/2022*
-  - [*Foundations for Essential Needs*](https://ffen.org/)
-  
 ### Contact
 
-**Email**: jguan@macalester.edu \
+**Email**: jguan\@macalester.edu\
 **Phone**: +1 651-363-5786
-
-
