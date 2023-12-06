@@ -7,6 +7,8 @@ image-alt: quizgrader logo
 categories:
   - Research
   - Topological Data Analysis (TDA)
+  - High-Performance Computing (HPC)
+  - Linear Programming
   - Python
 about:
   template: solana
